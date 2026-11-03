@@ -81,9 +81,14 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/nvbn/thefuck
 
+
+2. Gráfico selecionado:
+
+![Production and Test Files](production_and_test_files.png)
+
+
+3. Explicação: O gráfico apresenta a evolução na quantidade de ficheiros de produção (linha azul) e de teste (linha rosa) entre os anos de 2021 e 2024. É possível observar uma tendência de estabilidade com um ligeiro crescimento inicial entre 2021 e 2022 (passando de 211 para 218 ficheiros de produção e de 186 para 193 de teste), mantendo-se praticamente constante nos anos seguintes até 2024. O rácio consistente entre as duas curvas reflete boas práticas de engenharia de software, evidenciando que o projeto manteve uma preocupação contínua em acompanhar o desenvolvimento de novas funcionalidades ou correções com a respetiva cobertura de testes unitários.
 
 
